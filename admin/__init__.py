@@ -1,0 +1,1 @@
+# file ini digunakan agar dapat mengimport program second.py melalui program main.py
